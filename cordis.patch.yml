@@ -1,0 +1,3 @@
+- insert:
+    - id: opencode-usage-ring
+      name: '@local/opencode-usage-ring'

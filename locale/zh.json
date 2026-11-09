@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "opencode 用量圆环",
+    "description": "侧边栏账户行旁边的圆环，显示 opencode Go 套餐在 5 小时、每周和每月限额上还剩多少。"
+  }
+}

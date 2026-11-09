@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "opencode usage ring",
+    "description": "A circle beside the sidebar account row that shows how much of the opencode Go plan is left for the 5-hour, weekly and monthly limits."
+  }
+}
